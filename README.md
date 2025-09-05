@@ -1,4 +1,4 @@
-# Hello! I am Mercedezs, a medical student at USP, with a strong interest in scientific initiation. I am involved in research projects that aim to address health challenges and promote innovations.
+# Hello! I am Mercedezs, with a strong interest in scientific initiation. I am involved in research projects that aim to address health challenges and promote innovations.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
